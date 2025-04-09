@@ -16,4 +16,4 @@
           to my GitHub profile.
 ##
 
-Repository support: All my repositories will include a VersION file which will keep track of updates. This will be added on Saturday, April 5th.
+All repositories include a VersION file so you can see upcoming updates.
