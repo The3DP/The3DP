@@ -18,4 +18,4 @@
 
 All repositories include a VersION file so you can see upcoming updates.
 ------------------------------------------------------------------------
-Every 500 commits I make I have a celebration 🎉🎉🎉
+Every 500 commits I make I have a celebration. 🎉🎉🎉
