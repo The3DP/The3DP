@@ -22,4 +22,5 @@ Every 500 commits I make I have a celebration. 🎉🎉🎉
 -------------------------------------------------
 Google Chat
 
-If you ever want to meet up for a question, topic, or suggestion, then click on this link
+If you ever want to meet up for a question, topic,
+or suggestion, then click on this link
