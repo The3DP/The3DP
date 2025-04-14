@@ -34,6 +34,8 @@ News:
 Additions to VersION file:
 content will show this week.
 ----------------------------
+Descriptions for REPO's (repositories)
+are expecting newcoming changes as well.
 
 
 
