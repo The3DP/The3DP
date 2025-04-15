@@ -28,18 +28,18 @@ https://chat.google.com/room/AAQAgBI3vo8/p1m_VBuHQ10/p1m_VBuHQ10?cls=10
 News: 
 (Note: come here every week to see real-time edits in progress)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
---------------------------------------------------------------
+¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬
 Additions to VersION file:
 content will show this week.
-----------------------------
+¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬
 Descriptions for REPO's (repositories)
 are expecting newcoming changes as well.
-----------------------------------------
+¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬
 Apology: If you are in constant reliability of my REPO's,
 changes may expect a bumpy ride since many ethical difficulties 
 have been encountered. 
 Thank you so much for your patience. -The3DP
---------------------------------------------
+¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬
 More about VersION.
 
 VersION is the largest addition to the user convinience
