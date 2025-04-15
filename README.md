@@ -17,7 +17,7 @@
 ##
 
 All repositories include a VersION file so you can see upcoming updates.
-------------------------------------------------------------------------
+¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬
 Google Chat:
 
 If you ever want to meet up for a question, topic,
