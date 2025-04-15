@@ -4,11 +4,9 @@
     your name is though
       but you can always
        just tell me by contacting
-       ------------------------- my email (d73928430@gmail.com) 
-       # My top Repositories:
-       ## InstaPrint and
-          InstaPrint Pro
-          ---------------
+     my email (d73928430@gmail.com) 
+  **
+           ---------------
           Any questions? Just go to the CAF
           (Code assigment forum)
           Note: Code assigment forum is a repository 
