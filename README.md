@@ -76,13 +76,4 @@ One - = 20% for stats affirmed.
 Remember: Please contact me if you 
 need something or need help with something.
 Happy Coading! Contact d73928430@gmail.com
-
-
-
-
-
-
-
-
-
-
+¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬
