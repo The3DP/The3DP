@@ -49,6 +49,35 @@ Version is a easy reading, helpful info giving, and
 justifying platform. All of my Repositories are currently underway 
 and will (eventually) fully support the VerSION file.
 
+How to use: In order to interact with the VersION, Click on 
+the VersION file in my repository(ies). Here is an example of what
+you might see.  NOTE: Different VersION files may vary.
+
+-
+--
+---
+----
+----- < 50% complete.
+------
+-------
+--------
+---------
+----------
+¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬
+Updating is at a solid rate.
+All stats are affirmed.
+        |√| 
+
+Key Tips (if needed).
+**********************
+One - = 10% for Updates.
+One - = 20% for stats affirmed.
+¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬
+Remember: Please contact me if you 
+need something or need help with something.
+Happy Coading! Contact d73928430@gmail.com
+
+
 
 
 
