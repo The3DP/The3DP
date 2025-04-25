@@ -54,7 +54,6 @@ and will (eventually) fully support the VerSION file.
 How to use: In order to interact with the VersION, Click on 
 the VersION file in my repository(ies). 
 NOTE: Different VersION files may vary.
-
 Key Tips (if needed).
 **********************
 One - = 10% for Updates.
