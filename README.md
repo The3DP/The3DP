@@ -13,8 +13,6 @@
           that you can search for in by going
           to my GitHub profile.
 ##
-
-
 For every 500 contributions I make, I create a new repository.
 The most current repository is InstaPrint Pro.
 
@@ -51,6 +49,12 @@ Key Tips (if needed).
 **********************
 One - = 10% for Updates.
 One - = 20% for stats affirmed.
+##
+>RTS<
+##
+RTS stands for Recommended Testing Sites, and will appear on
+most of my HTML repositories. This tells you mostly any 
+online sites you can visit to test and run my code. Just plug and play (copy and paste).
 ##
 Remember: Please contact me if you 
 need something or need help with something.
