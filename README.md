@@ -15,7 +15,7 @@
 ##
 
 
-For every 1000 contributions I make, I create a new repository.
+For every 500 contributions I make, I create a new repository.
 The most current repository is InstaPrint Pro.
 
 
