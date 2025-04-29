@@ -18,8 +18,8 @@ The most current repository is InstaPrint Pro.
 
 
 All repositories include a VersION file so you can see upcoming updates.
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-News: 
+
+>News: 
 (Note: come here every week to see real-time edits in progress)
 ^^^
 ##
