@@ -1,3 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The 3DP Animation</title>
+  <style>
+    body, html {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      background: #000;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      overflow: hidden;
+      font-family: 'Arial', sans-serif;
+    }
+
+    .scene {
+      position: relative;
+      width: 100vw;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .merged-ball {
+      position: absolute;
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      background-color: #2ecc71;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      opacity: 1;
+      animation: growAndChangeColor 6s infinite forwards, rotateText 6s infinite linear;
+      z-index: 1;
+    }
+
+    .merged-ball span {
+      font-size: 3rem;
+      font-weight: bold;
+      color: #fff;
+      opacity: 0;
+      animation: fadeIn 6s infinite forwards;
+    }
+
+    @keyframes growAndChangeColor {
+      0% {
+        width: 50px;
+        height: 50px;
+        background-color: #2ecc71;
+      }
+      100% {
+        width: 100vw;
+        height: 100vh;
+        background-color: #1b4d3e; /* Dark Green */
+      }
+    }
+
+    @keyframes fadeIn {
+      0% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+
+    @keyframes rotateText {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+  </style>
+</head>
+<body>
+  <div class="scene">
+    <div class="merged-ball">
+      <span>The 3DP</span>
+    </div>
+  </div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
 ## Hi there 👋
   My name is Daren,
    I am not sure who
