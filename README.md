@@ -34,7 +34,7 @@ changes may expect a bumpy ride since many ethical difficulties
 have been encountered. 
 Thank you so much for your patience. -The3DP
 ##
->More about VersION<
+>More about VersION
 ##
 VersION is the largest addition to the user convinience
 department when using my Repositories. 
@@ -50,7 +50,7 @@ Key Tips (if needed).
 One - = 10% for Updates.
 One - = 20% for stats affirmed.
 ##
->RTS<
+>RTS
 ##
 RTS stands for Recommended Testing Sites, and will appear on
 most of my HTML repositories. This tells you mostly any 
