@@ -56,6 +56,6 @@ RTS stands for Recommended Testing Sites, and will appear on
 most of my HTML repositories. This tells you mostly any 
 online sites you can visit to test and run my code. Just plug and play (copy and paste).
 ##
-Remember: Please contact me if you 
+Please contact me if you 
 need something or need help with something.
 Contact d73928430@gmail.com. Happy Coding!
