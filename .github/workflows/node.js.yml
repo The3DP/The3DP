@@ -24,11 +24,16 @@ jobs:
         node-version: '16' # Replace with the correct Node.js version
 
     - name: Install dependencies
-      run: npm install
+      run: |
+        cd app # Change this to the subdirectory containing the package.json, or remove if it's in the root
+        npm install
 
     - name: Run tests
-      run: npm test
+      run: |
+        cd app # Change this to the subdirectory containing the package.json, or remove if it's in the root
+        npm test
 
     - name: Upload npm debug log
       if: failure()
       run: cat /home/runner/.npm/_logs/*.log
+
