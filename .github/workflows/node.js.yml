@@ -25,12 +25,10 @@ jobs:
 
     - name: Install dependencies
       run: |
-        cd app # Change this to the subdirectory containing the package.json, or remove if it's in the root
         npm install
 
     - name: Run tests
       run: |
-        cd app # Change this to the subdirectory containing the package.json, or remove if it's in the root
         npm test
 
     - name: Upload npm debug log
