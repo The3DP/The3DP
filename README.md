@@ -1,17 +1,7 @@
 ## Hi there 👋
-  My name is Daren,
-   I am not sure who
-    your name is though
-      but you can always
-       just tell me by contacting
-     my email (d73928430@gmail.com) 
-  **
-           ---------------
-          Any questions? Just go to the CAF
-          (Code assigment forum)
-          Note: Code assigment forum is a repository 
-          that you can search for in by going
-          to my GitHub profile.
+ Please visit our website 
+ by clicking th link below:
+ https://markandtraci.com
 ##
 All repositories include a VersION file so you can see upcoming updates.
 
