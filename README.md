@@ -4,16 +4,6 @@
  https://markandtraci.com
 ##
 All repositories include a VersION file so you can see upcoming updates.
-
->News: 
-(Note: come here every week to see real-time edits in progress)
-^^^
-##
-Additions to VersION file:
-content will show this week.
-##
-Descriptions for REPO's (repositories)
-are expecting newcoming changes as well.
 ##
 Apology: If you are in constant reliability of my REPO's,
 changes may expect a bumpy ride since many ethical difficulties 
