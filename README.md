@@ -13,10 +13,6 @@
           that you can search for in by going
           to my GitHub profile.
 ##
-For every 500 contributions I make, I create a new repository.
-The most current repository is InstaPrint Pro.
-
-
 All repositories include a VersION file so you can see upcoming updates.
 
 >News: 
