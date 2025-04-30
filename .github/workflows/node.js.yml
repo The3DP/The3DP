@@ -15,14 +15,20 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v3
+      with:
+        submodules: true # If applicable
 
     - name: Setup Node.js
       uses: actions/setup-node@v3
       with:
-        node-version: '16' # Replace with your Node.js version
+        node-version: '16' # Replace with the correct Node.js version
 
     - name: Install dependencies
       run: npm install
 
     - name: Run tests
       run: npm test
+
+    - name: Upload npm debug log
+      if: failure()
+      run: cat /home/runner/.npm/_logs/*.log
