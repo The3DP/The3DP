@@ -26,9 +26,9 @@ Key Tips (if needed).
 One - = 10% for Updates.
 One - = 20% for stats affirmed.
 ##
-RTS
+RTS (Recommended Testing Sites)
 ##
-RTS stands for Recommended Testing Sites, and will appear on
+RTS will appear on
 most of my HTML repositories. This tells you mostly any 
 online sites you can visit to test and run my code. Just plug and play (copy and paste).
 ##
