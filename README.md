@@ -13,7 +13,7 @@ Thank you so much for your patience. -The3DP
 More about VersION
 ##
 VersION is the largest addition to the user convinience
-department when using my Repositories. 
+department when using my repositories. 
 It is a easy reading, helpful info giving, and
 justifying platform. All of my Repositories are currently underway 
 and will (eventually) fully support the VerSION file.
