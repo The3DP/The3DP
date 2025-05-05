@@ -5,7 +5,7 @@
 ##
 All repositories include a VersION file so you can see upcoming updates.
 ##
-Apology: If you are in constant reliability of my REPO's,
+Apology: If you are in constant reliability of my repositories,
 changes may expect a bumpy ride since many ethical difficulties 
 have been encountered. 
 Thank you so much for your patience. -The3DP
