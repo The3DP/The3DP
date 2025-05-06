@@ -5,9 +5,9 @@
 ##
 All repositories include a VersION file so you can see upcoming updates.
 ##
-Apology: If you are in constant reliability of my repositories,
-changes may expect a bumpy ride since many ethical difficulties 
-have been encountered. 
+Repository updating is a a standard rate.
+(My) repositories get updates mostly 
+on Saturday.
 Thank you so much for your patience. -The3DP
 ##
 More about VersION
