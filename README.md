@@ -5,7 +5,7 @@
 ##
 All repositories include a VersION file so you can see upcoming updates.
 ##
-Repository updating is a a standard rate.
+Repository updating is a a standard rate.*
 (My) repositories get updates mostly 
 on Saturday.
 Thank you so much for your patience. -The3DP
@@ -34,4 +34,6 @@ online sites you can visit to test and run my code. Just plug and play (copy and
 ##
 Please contact d73928430@gmail.com for anything!
 Happy Coding!
+##
+>* Data tested on average speed, upating, and bug fixing.
 ##
