@@ -36,4 +36,3 @@ Please contact d73928430@gmail.com for anything!
 Happy Coding!
 ##
 >* Data tested on average speed, upating, and bug fixing.
-##
