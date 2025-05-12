@@ -37,6 +37,7 @@ Happy Coding!
 ##
 >* Data tested on average speed, upating, and bug fixing.
 ##
-*Updates!
-##
-Templates for all my repositories have sucessfully been added!
+New updates!
+
+*Templates for all my repositories have sucessfully been added!
+*All repositories now include sign-offs, and will show what coder does what, etc.
