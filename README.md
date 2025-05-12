@@ -33,7 +33,7 @@ most of my HTML repositories. This tells you mostly any
 online sites you can visit to test and run my code. Just plug and play (copy and paste).
 ##
 Please contact d73928430@gmail.com for anything!
-Happy Coding!
+Happy coding!
 ##
 >Data tested on average speed, upating, and bug fixing.
 ##
