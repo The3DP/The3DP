@@ -35,10 +35,10 @@ online sites you can visit to test and run my code. Just plug and play (copy and
 Please contact d73928430@gmail.com for anything!
 Happy Coding!
 ##
->* Data tested on average speed, upating, and bug fixing.
+>Data tested on average speed, upating, and bug fixing.
 ##
 New updates!
 
 * Templates for all my repositories have sucessfully been added!
 
-* All repositories also include sign-offs, and will show what coder does what, etc.
+* All repositories also include sign-offs, and will show what coder did what, etc.
