@@ -37,3 +37,6 @@ Happy Coding!
 ##
 >* Data tested on average speed, upating, and bug fixing.
 ##
+*Updates!
+##
+Templates for all my repositories have sucessfully been added!
