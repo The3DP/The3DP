@@ -48,6 +48,6 @@ New updates!
 
 ## 🎆 Cool Particle Orbit Animation
 
-[👉 Click to view the live animation](https://your-username.github.io/particle-animation/)
+[👉 Click to view the live animation](https://The3DP.github.io/particle-animation/)
 
 ![Preview](./preview.gif)  <!-- optional preview -->
