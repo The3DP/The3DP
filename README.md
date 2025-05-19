@@ -1,4 +1,4 @@
-## Hi there 👋
+<p align="center">Hi there 👋
  Please visit our website 
  by clicking the link below:  
 >https://markandtraci.com
