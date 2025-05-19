@@ -45,3 +45,9 @@ New updates!
 * All repositories also include sign-offs, and will show what coder did what, etc.
 
 <p align="center">Happy Coding!
+
+## 🎆 Cool Particle Orbit Animation
+
+[👉 Click to view the live animation](https://your-username.github.io/particle-animation/)
+
+![Preview](./preview.gif)  <!-- optional preview -->
