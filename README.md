@@ -35,7 +35,7 @@ online sites you can visit to test and run my code. Just plug and play (copy and
 Please contact d73928430@gmail.com for anything!
 Happy coding!
 ##
->Data tested on average speed, upating, and bug fixing.
+>Data tested on average speed, updating, and bug fixing.
 ##
 New updates!
 
