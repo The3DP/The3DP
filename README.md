@@ -6,7 +6,7 @@
 ##
 NEWS: 
 ##
-THe file form VersION will be deleted and replaced by moving it to a README.md file.
+The file form VersION will be deleted and replaced by moving it to a README.md file.
 ##
 How to use: In order to interact with the VersION, view
 Key Tips (if needed).
