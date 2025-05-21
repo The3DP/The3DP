@@ -4,28 +4,15 @@
  by clicking the link below:  
 >https://markandtraci.com
 ##
-All repositories include a VersION file so you can see upcoming updates.
+NEWS: 
 ##
-Repository updating is a a standard rate.*
-(My) repositories get updates mostly 
-on Saturday.
-Thank you so much for your patience. -The3DP
+THe file form VersION will be deleted and replaced by moving it to a README.md file.
 ##
-More about VersION
-##
-VersION is the largest addition to the user convinience
-department when using my repositories. 
-It is a easy reading, helpful info giving, and
-justifying platform. All of my Repositories are currently underway 
-and will (eventually) fully support the VerSION file.
->
-How to use: In order to interact with the VersION, Click on 
-the VersION file in my repository(ies). 
-NOTE: Different VersION files may vary.
+How to use: In order to interact with the VersION, view
 Key Tips (if needed).
 
 One - = 10% for Updates.
-One - = 20% for stats affirmed.
+One - = 20% for stats affirmed. (optinal)
 ##
 RTS (Recommended Testing Sites)
 ##
