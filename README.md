@@ -27,9 +27,9 @@ Happy coding!
 ##
 New updates!
 
-* Templates for all my repositories have sucessfully been added!
+* Templates for all (my) repositories have sucessfully been added!
 
-* All repositories also include sign-offs, and will show what coder did what, etc.
+* All (my) repositories also include sign-offs, and will show what coder did what, etc.
 
 <p align="center">Happy Coding!
 
