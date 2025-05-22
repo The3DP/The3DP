@@ -4,15 +4,9 @@
  by clicking the link below:  
 >https://markandtraci.com
 ##
-NEWS: 
-##
 The file form VersION will be deleted and replaced by moving it to a README.md file.
-##
-How to use: In order to interact with the VersION, view
-Key Tips (if needed).
-
-One - = 10% for Updates.
-One - = 20% for stats affirmed. (optinal)
+The name "Version" will no longer be announced.
+Instead, the status of thr repository to completion will show.
 ##
 RTS (Recommended Testing Sites)
 ##
