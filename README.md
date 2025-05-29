@@ -35,4 +35,4 @@ New updates!
 <p align="center">Updating Python to HTML
 
 Old python codes in my repository will be modified to HTML coding.
-Errors have been encountered, so you should expect big, upcoming changes.
+Errors have been encountered, so upcoming changes should be expected.
