@@ -33,4 +33,6 @@ New updates!
 
 ![Preview](./preview.gif)  <!-- optional preview -->
 <p align="center">Updating Python to HTML
-i
+
+Old python codes in my repository will be modified to HTML coding.
+Errors have been encountered, so you should expect big, upcoming changes.
