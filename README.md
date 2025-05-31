@@ -34,8 +34,8 @@ New updates!
 ![Preview](./preview.gif)  <!-- optional preview -->
 
  ##
-For some reason, my number of contributions went down from around 1,200 to 1,076.
+For some reason, my number of contributions went down from around 1,203 to 1,077.
  I do not know how this happened, but it is pretty strange.
  Github, if you are reading this, than PLEASE FIX THIS ISSUE.
 For now on, I am pausing any activity out of fear that Github will erase my contributions.
-Thank you dfor understanding.
+Thank you for understanding.
