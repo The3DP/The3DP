@@ -33,7 +33,8 @@ New updates!
 
 ![Preview](./preview.gif)  <!-- optional preview -->
 <p align="center">Updating Python to HTML
-##
-For some reason, my number of contributions went down from around 1,200 to 1,072.
+
+ ##
+For some reason, my number of contributions went down from around 1,200 to 1,073.
  I do not know how this happened, but it is pretty strange.
  Github, if you are reading this, than PLEASE FIX THIS ISSUE.
