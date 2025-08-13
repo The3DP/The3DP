@@ -1,4 +1,4 @@
-# Views since Aug 13, 2025
+# Visitors since Aug 13, 2025
 
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=your-github-username.The3DP&style=flat-square&color=FF00FF&labelColor=00FFFF&logo=eye)
 
