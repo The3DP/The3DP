@@ -1,3 +1,6 @@
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=39ff14&style=flat)
+
+
 Hi there! Please leave a reaction to my repositories!
 I work very hard on them. Also, please check out my tinkercad account:
 https://www.tinkercad.com/users/1dkSz833WZ2
