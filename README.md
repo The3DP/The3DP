@@ -15,3 +15,10 @@ Above is a photo of my Raspberry Pi 4B, equipped with an ICE fan.
 ![IMG_1060](https://github.com/user-attachments/assets/0b09b025-08a3-43f5-b774-dd4f59d58e07)
 
 When Idle, the Pi consumes 2 to 3 watts.
+
+![IMG_1061](https://github.com/user-attachments/assets/fe05bdd4-b610-43da-83dd-0d83b9a99b3f)
+
+There are brightness options of course, but I kee the lights on high. The lights are so bright, they spread colorful lines against the wall.
+
+![IMG_1061](https://github.com/user-attachments/assets/79410976-e8d5-4835-8f57-875ec61b2351)
+
