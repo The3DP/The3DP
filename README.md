@@ -1,6 +1,4 @@
-![profile veiws since aug 13, 2025](https://visitorbadge.githu‑busercontent.com/badge?page_id=The3DP.The3DP&color=808080&lcolor=39ff14&label=profile+veiws+since+aug+13,+2025&style=flat)
-
-
+![Profile views since Aug 13, 2025](https://visitorbadge.githu‑busercontent.com/badge?page_id=The3DP.The3DP&color=808080&lcolor=39ff14&label=profile+veiws+since+aug+13,+2025&style=flat)
 
 Hi there! Please leave a reaction to my repositories!
 I work very hard on them. Also, please check out my tinkercad account:
