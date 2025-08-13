@@ -1,4 +1,5 @@
-![Profile Views](https://komarev.com/ghpvc/?username=The3DP&label=Profile%20Views&color=39ff14&style=flat)
+![profile veiws since aug 13, 2025](https://visitorbadge.githu‑busercontent.com/badge?page_id=The3DP.The3DP&color=808080&lcolor=39ff14&label=profile+veiws+since+aug+13,+2025&style=flat)
+
 
 
 Hi there! Please leave a reaction to my repositories!
