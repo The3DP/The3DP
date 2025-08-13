@@ -28,5 +28,3 @@ When Idle, the Pi consumes 2 to 3 watts.
 
 There are brightness options of course, but I keep the lights on high. 
 The lights are so bright, they spread colorful lines against the wall.
-
-https://The3DP.github.io/MacMax/
