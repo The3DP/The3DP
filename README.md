@@ -7,3 +7,7 @@ My AnkerMake account is:
 https://makeitreal.eufymake.com/user/ba8cdc25bf8273bb4bccf32b4408248b5de5d445/
 Also, please check out my Dad's website:
 https://markandtraci.com/
+
+![IMG_1059](https://github.com/user-attachments/assets/211e53df-9748-4b27-96b2-738abd604854)
+
+Above is a photo of my Raspberry Pi 4B, equipped with an ICE fan.
