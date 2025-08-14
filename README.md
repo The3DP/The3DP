@@ -36,4 +36,4 @@ You can get this cool-looking fan [here.](https://www.amazon.com/GeeekPi-Raspber
 
  [About Mation](https://The3DP.github.io/Mation.github.io/)
 
-[My Solar System Module](https://The3DP.github.io/Orbit/)
+ [Neon Solar System Module](https://The3DP.github.io/Orbit/)
