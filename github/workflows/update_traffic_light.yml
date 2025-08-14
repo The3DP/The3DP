@@ -1,0 +1,32 @@
+name: Update Traffic Light Badge
+
+on:
+  schedule:
+    - cron: "*/5 * * * *" # Runs every 5 minutes
+  workflow_dispatch:
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install pytz
+
+      - name: Run badge updater
+        run: python update_readme.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update traffic light badge" || echo "No changes to commit"
+          git push
