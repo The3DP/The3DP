@@ -5,6 +5,11 @@
 
 ![Profile views since Aug 13, 2025](https://github-readme-stats.vercel.app/api?username=The3DP&count_private=true&show_icons=true&hide_border=true&title_color=808080&text_color=39ff14&label="profile+veiws+since+aug+13,+2025")
 
+#Active Status
+
+<!-- Traffic Light Badge: Do not edit this line manually! -->
+![Traffic Light](https://img.shields.io/badge/Traffic_Light-GREEN-brightgreen)
+
 To visit my latest project, click [here](https://github.com/The3DP/Mation-2). Thank You!
 
 Hi there! Please leave a reaction to my repositories!
