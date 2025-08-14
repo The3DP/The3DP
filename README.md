@@ -30,4 +30,6 @@ When Idle, the Pi consumes 2 to 3 watts.
 There are brightness options of course, but I keep the lights on high. 
 The lights are so bright, they spread colorful lines against the wall.
 
+You can get this cool-looking fan [here.](https://www.amazon.com/GeeekPi-Raspberry-Cooling-Cooler-Heatsink/dp/B07V35SXMC/ref=sr_1_8?crid=3C8P6CT2FG375&dib=eyJ2IjoiMSJ9.nlxSfJa1mgQZXD6NohVNVYIF4foLtYwK2sCOCPXsdiFR-ETWCIsGCblYnakDFb0z9S8-l0FlFwfEPLxVYdsPBzUbh51RARLZEmIQIM8o0yzeE-s0twRY2OD919bNKMZNTsLVqSWYsIdDmRixxo-mHAmCyXRtD28660ETARtCbEr1K8VcpUE_kLtRvF6o1akO9W3HA8a9qEJlWjU_hKATr2r_F-ntcyPU295E9EpM_I0.r7OZxCXeeiJAck-AyW6k5QyI6WlDvjD30ctj1vbGG24&dib_tag=se&keywords=raspberry+Pi+ICE+fan&qid=1755179325&sprefix=raspberry+pi+ice+fan%2Caps%2C249&sr=8-8)
+
  [About RTS](https://The3DP.github.io/about-RTS/)
