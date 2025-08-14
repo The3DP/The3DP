@@ -5,6 +5,15 @@
 
 ![Profile views since Aug 13, 2025](https://github-readme-stats.vercel.app/api?username=The3DP&count_private=true&show_icons=true&hide_border=true&title_color=808080&text_color=39ff14&label="profile+veiws+since+aug+13,+2025")
 
+## 📖 Bible Verse of the Week
+
+> **“For I know the thoughts that I think toward you, says the LORD, thoughts of peace and not of evil, to give you a future and a hope.”**  
+> — *Jeremiah 29:11 NKJV*
+
+![Neon Divider](https://img.shields.io/badge/-+--39ff14?style=flat-square)
+
+*Check back each week for a new verse!*
+
 # Online Status
 
 ![Traffic Light](https://img.shields.io/badge/Traffic_Light-RED-red)
