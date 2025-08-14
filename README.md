@@ -54,17 +54,3 @@ You can get this cool-looking fan [here.](https://www.amazon.com/GeeekPi-Raspber
  [About Mation](https://The3DP.github.io/Mation.github.io/)
 
  [Neon Solar System Module](https://The3DP.github.io/Orbit/)
-
-##Questions?
-Got questions, well I'm happy to say that I have answers. Ask away!
-**Just drop your question below, and I'll get back to you as soon as possible.**
-
----
-
-**Your Email:**  
-`your.email@example.com`
-
-**Your Message:**  
-> _Type your question or message here..._
-
----
