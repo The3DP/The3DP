@@ -18,8 +18,6 @@
 
 ---
 
-This badge automatically updates every 5 minutes.
-
 To visit my latest project, click [here](https://github.com/The3DP/Mation-2). Thank You!
 
 Hi there! Please leave a reaction to my repositories!
