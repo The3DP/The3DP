@@ -30,4 +30,4 @@ When Idle, the Pi consumes 2 to 3 watts.
 There are brightness options of course, but I keep the lights on high. 
 The lights are so bright, they spread colorful lines against the wall.
 
-I love Raspberry Pi's, and currently own 3. Each are used daily in countless ways.
+This profile will be updated soon!
