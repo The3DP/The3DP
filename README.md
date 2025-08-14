@@ -12,8 +12,6 @@
 
 ![Neon Divider](https://img.shields.io/badge/-+--39ff14?style=flat-square)
 
-*Check back each week for a new verse!*
-
 # Online Status
 
 ![Traffic Light](https://img.shields.io/badge/Traffic_Light-RED-red)
