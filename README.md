@@ -14,7 +14,7 @@
 
 # Online Status
 
-![Traffic Light](https://img.shields.io/badge/Traffic_Light-RED-red)
+![Traffic Light](https://img.shields.io/badge/Traffic_Light-ACTIVE-green)
 
 ---
 
