@@ -20,7 +20,7 @@
 
 ![ScreenRecording2025-08-14at9 30 02PM-ezgif com-effects](https://github.com/user-attachments/assets/11cc445d-353c-4e48-bd44-d611d929da22)
 
-To visit my latest project, click [here](https://github.com/The3DP/Mation-2). Thank You!
+To visit my latest project, click [here](https://github.com/The3DP/PyLight). Thank You!
 
 Hi there! Please leave a reaction to my repositories!
 I work very hard on them. Also, please check out my tinkercad account:
