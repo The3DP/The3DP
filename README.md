@@ -21,9 +21,9 @@
 ![ScreenRecording2025-08-14at9 30 02PM-ezgif com-effects](https://github.com/user-attachments/assets/11cc445d-353c-4e48-bd44-d611d929da22)
 
 # Latest Projects 
-| [Pylight](https://github.com/The3DP/PyLight) |
-| [AllPi](https://github.com/The3DP/AllPi/tree/main) |
-| [Galatic](https://github.com/The3DP/Galatic.github.io) |
+| [Pylight](https://github.com/The3DP/PyLight)          |
+| [AllPi](https://github.com/The3DP/AllPi/tree/main)    |
+| [Galatic](https://github.com/The3DP/Galatic.github.io)| 
 
 Hi there! Please leave a reaction to my repositories!
 I work very hard on them. Also, please check out my tinkercad account:
