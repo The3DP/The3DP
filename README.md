@@ -6,6 +6,12 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=The3DP&count_private=true&show_icons=true&hide_border=true&title_color=808080&text_color=39ff14&label="profile+veiws+since+aug+13,+2025")
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=The3DP&layout=compact)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact)
+
+<img src="https://ghchart.rshah.org/The3DP" alt="GitHub Contributions Chart" />
+
 ## 📖 Bible Verse of the Week
 
 > **“For I know the thoughts that I think toward you, says the LORD, thoughts of peace and not of evil, to give you a future and a hope.”**  
