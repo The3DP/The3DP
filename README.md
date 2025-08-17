@@ -1,5 +1,7 @@
 # Views since Aug 13, 2025
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=The3DP&theme=github-compact)
+
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=your-github-username.The3DP&style=flat-square&color=FF00FF&labelColor=00FFFF&logo=eye)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=The3DP)
@@ -7,8 +9,6 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=The3DP&count_private=true&show_icons=true&hide_border=true&title_color=808080&text_color=39ff14&label="profile+veiws+since+aug+13,+2025")
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=The3DP&layout=compact)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=The3DP&theme=github-compact)
 
 ## 📖 Bible Verse of the Week
 
