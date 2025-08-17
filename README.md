@@ -4,7 +4,7 @@
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=The3DP&count_private=true&show_icons=true&hide_border=true&title_color=808080&text_color=39ff14&label="profile+veiws+since+aug+13,+2025")
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=The3DP&layout=compact)
 
 ## 📖 Bible Verse of the Week
 
