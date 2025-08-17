@@ -4,13 +4,11 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=The3DP&count_private=true&show_icons=true&hide_border=true&title_color=808080&text_color=39ff14&label="profile+veiws+since+aug+13,+2025")
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=The3DP&layout=compact)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=The3DP)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=The3DP&theme=github-compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=The3DP&layout=compact)
 
-<img src="https://ghchart.rshah.org/user=The3DP" alt="GitHub Contributions Chart" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=The3DP&theme=github-compact)
 
 ## 📖 Bible Verse of the Week
 
