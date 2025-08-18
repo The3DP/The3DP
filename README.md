@@ -14,7 +14,6 @@
 
 > **I can do all things through Christ who strengthens me.**  
 > — *Philippians 4:13*
-
 ---
 
 ![Neon Divider](https://img.shields.io/badge/-+--39ff14?style=flat-square)
