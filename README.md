@@ -12,8 +12,8 @@
 
 ## 📖 Bible Verse of the Week
 
-> **“For I know the thoughts that I think toward you, says the LORD, thoughts of peace and not of evil, to give you a future and a hope.”**  
-> — *Jeremiah 29:11 NKJV*
+> **I can do all things through Christ who strengthens me.**  
+> — *Philippians 4:13*
 
 ---
 
