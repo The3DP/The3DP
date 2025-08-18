@@ -1,6 +1,6 @@
-# Views since Aug 13, 2025
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=The3DP&theme=github-compact)
+
+# Views since Aug 13, 2025
 
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=your-github-username.The3DP&style=flat-square&color=FF00FF&labelColor=00FFFF&logo=eye)
 
