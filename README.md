@@ -15,6 +15,8 @@
 > **“For I know the thoughts that I think toward you, says the LORD, thoughts of peace and not of evil, to give you a future and a hope.”**  
 > — *Jeremiah 29:11 NKJV*
 
+---
+
 ![Neon Divider](https://img.shields.io/badge/-+--39ff14?style=flat-square)
 
 # Online Status
