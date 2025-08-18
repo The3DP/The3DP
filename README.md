@@ -1,3 +1,5 @@
+NOTE: Updates are very slow, and I have multiple repositories which are nearly empty. This DOES NOT mean I am leaving those abandoned. I am currently in the middle of making many improvments to [this repository](https://github.com/The3DP/AnimOne)
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=The3DP&theme=github-compact)
 
 # Views since Aug 13, 2025
