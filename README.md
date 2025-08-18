@@ -33,7 +33,7 @@
 | [Galatic](https://github.com/The3DP/Galatic.github.io)| 
 
 Hi there! If you star my repositories,
-I will star yours in return. Also, please check out my tinkercad account:
+I will star yours in return. Also, please check out my TinkerCAD account:
 https://www.tinkercad.com/users/1dkSz833WZ2
 As well as my unknown Thingiverse account:
 https://www.thingiverse.com/bit77/designs
