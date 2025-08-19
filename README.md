@@ -33,7 +33,7 @@
 ---
 
 <details>
-<summary>📹 Demo Recording</summary>
+<summary>Solar System Module</summary>
 
 <br>
 
