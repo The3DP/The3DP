@@ -1,4 +1,4 @@
-## NOTE: I am busy improving [this repository](https://github.com/The3DP/AnimOne) .
+## NOTE: I am busy improving [this repository](https://github.com/The3DP/AnimOne).
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=The3DP&theme=github-compact)
 
