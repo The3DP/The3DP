@@ -1,4 +1,7 @@
-## 🚧 NOTE: I am actively improving [this repository](https://github.com/The3DP/AnimOne)
+# 🚧 NOTE: I am actively improving [this repository](https://github.com/The3DP/AnimOne)
+
+## 👁️‍🗨️ Views since Aug 13, 2025  
+![Views](https://visitor-badge.laobi.icu/badge?page_id=your-github-username.The3DP&style=flat-square&color=FF00FF&labelColor=00FFFF&logo=eye)
 
 ---
 
@@ -8,9 +11,6 @@
 <br>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=The3DP&theme=github-compact)
-
-### 👁️‍🗨️ Views since Aug 13, 2025  
-![Views](https://visitor-badge.laobi.icu/badge?page_id=your-github-username.The3DP&style=flat-square&color=FF00FF&labelColor=00FFFF&logo=eye)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=The3DP&theme=dark)
 
