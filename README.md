@@ -1,16 +1,19 @@
-# 🚧 NOTE: I am actively improving [this repository](https://github.com/The3DP/AnimOne)
+## 🚧 NOTE: I am actively improving [this repository](https://github.com/The3DP/AnimOne)
 
-## 👁️‍🗨️ Views since Aug 13, 2025  
+## 👁️‍🗨️ Views since Aug 13, 2025 
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=your-github-username.The3DP&style=flat-square&color=FF00FF&labelColor=00FFFF&logo=eye)
 
 ---
 
-<details>
-<summary>📈 GitHub Activity & Stats (click to expand)</summary>
+<details open>
+<summary>📈 GitHub Activity & Stats</summary>
 
 <br>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=The3DP&theme=github-compact)
+
+### 👁️‍🗨️ Views since Aug 13, 2025  
+![Views](https://visitor-badge.laobi.icu/badge?page_id=The3DP.The3DP&style=flat-square&color=FF00FF&labelColor=000000&logo=eye)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=The3DP&theme=dark)
 
@@ -33,7 +36,7 @@
 ---
 
 <details>
-<summary>Solar System Module</summary>
+<summary>📹 Demo Recording</summary>
 
 <br>
 
@@ -60,8 +63,6 @@
 <summary>🤝 Connect & Follow</summary>
 
 ⭐ Star my repos — I’ll star yours back!  
-
-You can also find me on:
 
 - 🛠️ [TinkerCAD](https://www.tinkercad.com/users/1dkSz833WZ2)  
 - 🧪 [Thingiverse](https://www.thingiverse.com/bit77/designs)  
@@ -100,3 +101,19 @@ You can also find me on:
 - [🌌 Neon Solar System Module](https://The3DP.github.io/Orbit/)
 
 </details>
+
+---
+
+## 🛠️ Tools I Use
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" />
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" />
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" width="50" />
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="50" />
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino" width="50" />
+</p>
