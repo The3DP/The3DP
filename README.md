@@ -12,9 +12,6 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=The3DP&theme=github-compact)
 
-### 👁️‍🗨️ Views since Aug 13, 2025  
-![Views](https://visitor-badge.laobi.icu/badge?page_id=The3DP.The3DP&style=flat-square&color=FF00FF&labelColor=000000&logo=eye)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=The3DP&theme=dark)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=The3DP&count_private=true&show_icons=true&hide_border=true&title_color=39ff14&text_color=ffffff&bg_color=000000)
