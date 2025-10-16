@@ -25,8 +25,8 @@
 <details>
 <summary>📖 Bible Verse of the Week</summary>
 
-> ✝️ **I can do all things through Christ who strengthens me.**  
-> — *Philippians 4:13*
+> ✝️ ** "So do not fear, for I am with you; do not be dismayed, for I am your God.**  
+> — *Isaiah 41:10 (NIV)*
 
 </details>
 
