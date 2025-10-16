@@ -66,7 +66,6 @@ You can also find me on:
 - 🛠️ [TinkerCAD](https://www.tinkercad.com/users/1dkSz833WZ2)  
 - 🧪 [Thingiverse](https://www.thingiverse.com/bit77/designs)  
 - 📦 [AnkerMake](https://makeitreal.eufymake.com/user/ba8cdc25bf8273bb4bccf32b4408248b5de5d445/)  
-- 👨‍💻 [My Dad’s Site](https://markandtraci.com/)
 
 </details>
 
