@@ -1,4 +1,4 @@
-## 🚧 NOTE: I am actively improving [this repository](https://github.com/The3DP/AnimOne).
+## Feelfree to check out [this repository](https://github.com/The3DP/AnimOne).
 
 ## 👁️‍🗨️ Views since Aug 13, 2025 
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=your-github-username.The3DP&style=flat-square&color=FF00FF&labelColor=00FFFF&logo=eye)
