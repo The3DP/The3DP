@@ -55,7 +55,7 @@
 | **AnimOne** |  [→](https://github.com/The3DP/AnimOne) |
 | **AnimDuo** |  [→](https://github.com/The3DP/AnimDuo.github.io) |
 |**AnimTrice**|  [→](https://github.com/The3DP/AnimTrice.github.io) |
-|  **Panim**  |  [→]() 
+|  **Panim**  |  [→](https://github.com/The3DP/Panim/tree/main) |
 </details>
 
 ---
