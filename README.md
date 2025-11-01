@@ -85,7 +85,7 @@ You can also find me on:
 
 💡 *I keep the lights on high — they reflect colorful beams on the wall.*
 
-🛒 [Buy the ICE Fan on Amazon](https://www.amazon.com/dp/B07V35SXMC)
+🛒 [**Buy the ICE Fan on Amazon**](https://www.amazon.com/dp/B07V35SXMC)
 
 </details>
 
