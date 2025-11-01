@@ -53,8 +53,8 @@
 | 🧠 **AllPi**  | [→](https://github.com/The3DP/AllPi/tree/main) |
 | 🌌 **Galatic** |[→](https://github.com/The3DP/Galatic.github.io) |
 | **AnimOne** |   [→](https://github.com/The3DP/AnimOne) |
-| **AnimDuo** |
-|**AnimTrice**|
+| **AnimDuo** |   [](https://github.com/The3DP/AnimDuo.github.io) |
+|**AnimTrice**|   []()
 </details>
 
 ---
