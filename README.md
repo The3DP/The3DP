@@ -50,9 +50,9 @@
   | Project | Site |
 |--------|------|
 | ⚡ **Pylight** | [→](https://github.com/The3DP/PyLight) |
-| 🧠 **AllPi**  | [H→](https://github.com/The3DP/AllPi/tree/main) |
-| 🌌 **Galatic** | [→](https://github.com/The3DP/Galatic.github.io) |
-| **AnimOne** | https://github.com/The3DP/AnimOne |
+| 🧠 **AllPi**  | [→](https://github.com/The3DP/AllPi/tree/main) |
+| 🌌 **Galatic** |[→](https://github.com/The3DP/Galatic.github.io) |
+| **AnimOne** |   [→](https://github.com/The3DP/AnimOne) |
 | **AnimDuo** |
 |**AnimTrice**|
 </details>
