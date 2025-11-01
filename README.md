@@ -123,5 +123,4 @@ You can also find me on:
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="60" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.githubassets.com/images/modules/site/copilot-logo.svg" alt="GitHub Copilot" width="120" />
 </p>
