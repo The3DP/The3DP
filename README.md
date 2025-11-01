@@ -44,12 +44,12 @@
 ---
 
 <details>
-<summary>🚀 Latest Projects</summary>
+<summary> All Projects </summary>
 
 | Project | Link |
 |--------|------|
 | ⚡ **Pylight** | [GitHub →](https://github.com/The3DP/PyLight) |
-| 🧠 **AllPi** | [GitHub →](https://github.com/The3DP/AllPi/tree/main) |
+| 🧠 **AllPi**  | [GitHub →](https://github.com/The3DP/AllPi/tree/main) |
 | 🌌 **Galatic** | [GitHub →](https://github.com/The3DP/Galatic.github.io) |
 
 </details>
