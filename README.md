@@ -94,9 +94,9 @@ You can also find me on:
 <details>
 <summary>🌐 Extra Pages</summary>
 
-- [🔬 About RTS](https://The3DP.github.io/about-RTS/)  
-- [🧠 About Mation](https://The3DP.github.io/Mation.github.io/)  
-- [🌌 Neon Solar System Module](https://The3DP.github.io/Orbit/)
+- [🔬 **About RTS**](https://The3DP.github.io/about-RTS/)  
+- [🧠 **About Mation**](https://The3DP.github.io/Mation.github.io/)  
+- [🌌 **Neon Solar System Module**](https://The3DP.github.io/Orbit/)
 
 </details>
 
