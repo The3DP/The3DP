@@ -52,9 +52,10 @@
 | ⚡ **Pylight** | [→](https://github.com/The3DP/PyLight) |
 | 🧠 **AllPi**  | [→](https://github.com/The3DP/AllPi/tree/main) |
 | 🌌 **Galatic** |[→](https://github.com/The3DP/Galatic.github.io) |
-| **AnimOne** |   [→](https://github.com/The3DP/AnimOne) |
-| **AnimDuo** |   [](https://github.com/The3DP/AnimDuo.github.io) |
-|**AnimTrice**|   []()
+| **AnimOne** |  [→](https://github.com/The3DP/AnimOne) |
+| **AnimDuo** |  [→](https://github.com/The3DP/AnimDuo.github.io) |
+|**AnimTrice**|  [→](https://github.com/The3DP/AnimTrice.github.io) |
+|  **Panim**  |  [→]() 
 </details>
 
 ---
