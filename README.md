@@ -47,12 +47,12 @@
 <summary> My Largest Projects
 </summary>
 
-  | Project | Link |
+  | Project | Site |
 |--------|------|
-| ⚡ **Pylight** | [GitHub →](https://github.com/The3DP/PyLight) |
-| 🧠 **AllPi**  | [GitHub →](https://github.com/The3DP/AllPi/tree/main) |
-| 🌌 **Galatic** | [GitHub →](https://github.com/The3DP/Galatic.github.io) |
-| **AnimOne** |
+| ⚡ **Pylight** | [→](https://github.com/The3DP/PyLight) |
+| 🧠 **AllPi**  | [H→](https://github.com/The3DP/AllPi/tree/main) |
+| 🌌 **Galatic** | [→](https://github.com/The3DP/Galatic.github.io) |
+| **AnimOne** | https://github.com/The3DP/AnimOne |
 | **AnimDuo** |
 |**AnimTrice**|
 </details>
