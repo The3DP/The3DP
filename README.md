@@ -23,7 +23,7 @@
 ---
 
 <details>
-<summary>📖 Bible Verse of the Week</summary>
+<summary>📖 Bible Verse of the Day</summary>
 
 > ✝️ **“For whoever is ashamed of me and of my words in this adulterous and sinful generation, of him will the Son of Man also be ashamed when he comes in the glory of his Father…”**  
 > — *Mark 8:38 (ESV)*
