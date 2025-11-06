@@ -26,7 +26,7 @@
 <summary>📖 Bible Verse of the Week</summary>
 
 > ✝️ **“For whoever is ashamed of me and of my words in this adulterous and sinful generation, of him will the Son of Man also be ashamed when he comes in the glory of his Father…”**  
-> — *Isaiah 41:10 (NIV)*
+> — *Mark 8:38 (ESV)*
 
 </details>
 
