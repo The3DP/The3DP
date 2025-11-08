@@ -25,8 +25,8 @@
 <details>
 <summary>📖 Bible Verse of the Day</summary>
 
-> ✝️ **“For whoever is ashamed of me and of my words in this adulterous and sinful generation, of him will the Son of Man also be ashamed when he comes in the glory of his Father…”**  
-> — *Mark 8:38 (ESV)*
+> ✝️ **“He makes nations great, and destroys them; He enlarges nations, and guides them. He takes away the understanding of the cheifs of the people of the earth, And makes them wander in a pathless wilderness. They grope in the dark without light, And He makes them stagger like a drunken man. ”**  
+> — *Psalm 12:23-25 (NKJV)*
 
 </details>
 
