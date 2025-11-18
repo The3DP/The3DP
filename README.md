@@ -25,7 +25,7 @@
 <details>
 <summary>📖 Bible Verse of the Day</summary>
 
-> ✝️ **“He makes nations great, and destroys them; He enlarges nations, and guides them. He takes away the understanding of the cheifs of the people of the earth, And makes them wander in a pathless wilderness. They grope in the dark without light, And He makes them stagger like a drunken man. ”**  
+> ✝️ **“Trust in the LORD with all your heart, And lean not on your own understanding; In all your ways acknowledge Him, And He shall direct your paths. ”**  
 > — *Psalm 12:23-25 (NKJV)*
 
 </details>
