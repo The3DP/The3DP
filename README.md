@@ -14,10 +14,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=The3DP&theme=dark)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=The3DP&count_private=true&show_icons=true&hide_border=true&title_color=39ff14&text_color=ffffff&bg_color=000000)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=The3DP&layout=compact&theme=dark)
-
 </details>
 
 ---
