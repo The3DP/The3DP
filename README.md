@@ -64,9 +64,9 @@
 
 My three most active repos are:
 
-- [**VerseData**]()
-- [**QuoteData**]()
-- [**Code-Samples**]()
+- [**VerseData**](https://github.com/The3DP/VerseData.github.io)
+- [**QuoteData**](https://github.com/The3DP/QuoteData.github.io)
+- [**Code-Samples**](https://github.com/The3DP/Code-Samples)
 
 </details>
 
