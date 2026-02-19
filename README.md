@@ -60,13 +60,13 @@
 <details>
 <summary>🤝 Connect & Follow</summary>
 
-⭐ Star my repos — I’ll star yours back!  
+⭐ If you star my repos, then I’ll star yours back!  
 
-You can also find me on:
+My three most active repos are:
 
-- [***TinkerCAD***](https://www.tinkercad.com/users/1dkSz833WZ2)  
-- [***Thingiverse***](https://www.thingiverse.com/bit77/designs)  
-- [***AnkerMake***](https://makeitreal.eufymake.com/user/ba8cdc25bf8273bb4bccf32b4408248b5de5d445/)  
+- [**VerseData**]()
+- [**QuoteData**]()
+- [**Code-Samples**]()
 
 </details>
 
