@@ -42,15 +42,15 @@
 <summary> My Largest Projects
 </summary>
 
-  | Project | Site |
+  | Project |
 |--------|------|
-| ⚡ **Pylight** | [→](https://github.com/The3DP/PyLight) |
-| 🧠 **AllPi**  | [→](https://github.com/The3DP/AllPi/tree/main) |
-| 🌌 **Galatic** |[→](https://github.com/The3DP/Galatic.github.io) |
-| **AnimOne** |  [→](https://github.com/The3DP/AnimOne) |
-| **AnimDuo** |  [→](https://github.com/The3DP/AnimDuo.github.io) |
-|**AnimTrice**|  [→](https://github.com/The3DP/AnimTrice.github.io) |
-|  **Panim**  |  [→](https://github.com/The3DP/Panim/tree/main) |
+| [**Pylight**](https://github.com/The3DP/PyLight) 
+| [**AllPi**](https://github.com/The3DP/AllPi/tree/main) 
+| [**Galatic**](https://github.com/The3DP/Galatic.github.io) 
+| [**AnimOne**](https://github.com/The3DP/AnimOne) 
+| [**AnimDuo**](https://github.com/The3DP/AnimDuo.github.io) 
+| [**AnimTrice**](https://github.com/The3DP/AnimTrice.github.io) 
+| [**Panim**](https://github.com/The3DP/Panim/tree/main) 
 </details>
 
 ---
