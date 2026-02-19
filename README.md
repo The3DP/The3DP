@@ -23,8 +23,7 @@
 <details>
 <summary>📖 Bible Verse of the Day</summary>
 
-> ✝️ **“Trust in the LORD with all your heart, And lean not on your own understanding; In all your ways acknowledge Him, And He shall direct your paths. ”**  
-> — *Proverbs 3:5-6*
+[Click here to see](https://the3dp.github.io/VerseData.github.io/)
 
 </details>
 
