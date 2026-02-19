@@ -14,6 +14,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=The3DP&theme=dark)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+The3DP;+Welcome+to+My+Profile!;An+unofficial+programmer+who+loves+the+Word+of+God)](https://git.io/typing-svg)
+
 </details>
 
 ---
