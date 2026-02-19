@@ -10,7 +10,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The3DP&layout=donut-vertical)](https://github.com/The3DP/github-readme-stats)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=The3DP&theme=github-compact)
 
