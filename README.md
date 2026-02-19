@@ -10,6 +10,8 @@
 
 <br>
 
+[![The3DP's GitHub stats](https://github-readme-stats.vercel.app/api?username=The3DP)](https://github.com/The3DP/github-readme-stats)
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=The3DP&theme=github-compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=The3DP&theme=dark)
