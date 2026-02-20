@@ -5,7 +5,7 @@
 
 ---
 
-<details open>
+<details>
 <summary>📈 GitHub Activity & Stats</summary>
 
 <br>
@@ -14,16 +14,25 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=The3DP&theme=dark)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+,+I+am+The3DP;+Welcome+to+My+Profile!;An+unofficial+programmer+who+loves+the+Word+of+God;Do+you+like+my+repositories?;Then+please+consider+giving+a+star;Thank+you+!;I+would+greatly+appreciate+it+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+,+I+am+The3DP;Aka+Bit77+🙂;+Welcome+to+My+Profile!;An+unofficial+programmer+who+loves+the+Word+of+God;Do+you+like+my+repositories?;Then+please+consider+giving+a+star;Thank+you+!;I+would+greatly+appreciate+it+!)](https://git.io/typing-svg)
 
 </details>
 
 ---
 
-<details>
+<details open>
 <summary>📖 Bible Verse of the Day</summary>
 
-[Click here to see](https://the3dp.github.io/VerseData.github.io/)
+[*Click here to see*](https://the3dp.github.io/VerseData.github.io/)
+
+</details>
+
+---
+
+<details open>
+<summary>⍞ Quote of the Day</summary>
+
+[*Click here to see*](https://the3dp.github.io/QuoteData.github.io/)
 
 </details>
 
