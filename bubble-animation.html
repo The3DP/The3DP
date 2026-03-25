@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Bubble Animation</title>
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+        }
+        .bubble {
+            position: absolute;
+            border-radius: 50%;
+            background-color: rgba(0, 150, 255, 0.6);
+            cursor: pointer;
+        }
+        .bomb {
+            background-color: red;
+        }
+    </style>
+</head>
+<body>
+    <script>
+        const bubbleCount = 10;
+        const bubbles = [];
+
+        function createBubble() {
+            const bubble = document.createElement('div');
+            const size = Math.random() * 50 + 20;
+            bubble.style.width = bubble.style.height = `${size}px`;
+            bubble.classList.add('bubble');
+            bubble.style.left = `${Math.random() * (window.innerWidth - size)}px`;
+            bubble.style.top = `${Math.random() * (window.innerHeight - size)}px`;
+            document.body.appendChild(bubble);
+            bubbles.push(bubble);
+            makeDraggable(bubble);
+        }
+
+        function makeDraggable(bubble) {
+            bubble.onmousedown = function(event) {
+                let shiftX = event.clientX - bubble.getBoundingClientRect().left;
+                let shiftY = event.clientY - bubble.getBoundingClientRect().top;
+
+                bubble.style.position = 'absolute';
+                bubble.style.zIndex = 1000;
+
+                function moveAt(pageX, pageY) {
+                    bubble.style.left = pageX - shiftX + 'px';
+                    bubble.style.top = pageY - shiftY + 'px';
+                }
+
+                function onMouseMove(event) {
+                    moveAt(event.pageX, event.pageY);
+                }
+
+                document.addEventListener('mousemove', onMouseMove);
+
+                bubble.onmouseup = function() {
+                    document.removeEventListener('mousemove', onMouseMove);
+                    bubble.onmouseup = null;
+                    checkForBomb(bubble);
+                };
+            };
+            bubble.ondragstart = function() {
+                return false;
+            };
+        }
+
+        function checkForBomb(bubble) {
+            if (bubble.getBoundingClientRect().bottom >= window.innerHeight) {
+                explode(bubble);
+            }
+        }
+
+        function explode(bomb) {
+            bomb.classList.add('bomb');
+            const bombIndex = bubbles.indexOf(bomb);
+            if (bombIndex > -1) bubbles.splice(bombIndex, 1);
+            setTimeout(() => {
+                bomb.remove();
+                bubbles.forEach(bub => {
+                    if (isNear(bub, bomb)) {
+                        explode(bub);
+                    }
+                });
+            }, 300);
+        }
+
+        function isNear(bubble1, bubble2) {
+            const rect1 = bubble1.getBoundingClientRect();
+            const rect2 = bubble2.getBoundingClientRect();
+            const dx = rect1.left - rect2.left;
+            const dy = rect1.top - rect2.top;
+            return Math.sqrt(dx * dx + dy * dy) < 50;
+        }
+
+        for (let i = 0; i < bubbleCount; i++) {
+            createBubble();
+        }
+    </script>
+</body>
+</html>
