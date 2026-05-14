@@ -62,6 +62,7 @@
 | [**AnimDuo**](https://github.com/The3DP/AnimDuo.github.io) |
 | [**AnimTrice**](https://github.com/The3DP/AnimTrice.github.io) |
 | [**Panim**](https://github.com/The3DP/Panim/tree/main) |
+| [**joke-generator**](https://github.com/The3DP/Code-Samples/tree/main/joke-generator) |
 
 </details>
 
