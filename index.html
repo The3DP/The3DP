@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A simple Bible reading app - search, read, and save your favorite verses. KJV and NKJV versions.">
+    <title>Bible App - Read God's Word</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <h1>📖 Bible App</h1>
+                <div class="header-controls">
+                    <div class="version-selector">
+                        <label for="version-select">Version:</label>
+                        <select id="version-select" class="version-select" aria-label="Select Bible version">
+                            <option value="kjv">KJV - King James Version</option>
+                            <option value="nkjv">NKJV - New King James Version</option>
+                        </select>
+                    </div>
+                    <button id="theme-toggle" class="theme-toggle" aria-label="Toggle dark mode">🌙</button>
+                </div>
+            </div>
+        </header>
+
+        <!-- Search Section -->
+        <section class="search-section">
+            <input 
+                type="text" 
+                id="search-input" 
+                class="search-input" 
+                placeholder="Search books, chapters, keywords..."
+                aria-label="Search Bible"
+            >
+            <button id="search-btn" class="search-btn">Search</button>
+        </section>
+
+        <!-- Quick Navigation -->
+        <section class="navigation">
+            <div class="nav-group">
+                <label for="book-select">Book:</label>
+                <select id="book-select" class="select-input"></select>
+            </div>
+            <div class="nav-group">
+                <label for="chapter-select">Chapter:</label>
+                <select id="chapter-select" class="select-input"></select>
+            </div>
+            <button id="load-btn" class="load-btn">Load</button>
+        </section>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <!-- Results/Verses Display -->
+            <div id="verses-container" class="verses-container">
+                <div class="welcome-message">
+                    <p>Welcome to Bible App!</p>
+                    <p>Search for a verse, book, or use the navigation above to get started.</p>
+                </div>
+            </div>
+
+            <!-- Sidebar for Favorites -->
+            <aside class="sidebar">
+                <h2>❤️ Favorites</h2>
+                <div id="favorites-list" class="favorites-list">
+                    <p class="empty-state">No favorites yet. Save verses to see them here!</p>
+                </div>
+                <button id="clear-favorites" class="clear-btn">Clear All</button>
+            </aside>
+        </main>
+    </div>
+
+    <!-- Scripts -->
+    <script src="js/bible-data.js"></script>
+    <script src="js/utils.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

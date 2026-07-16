@@ -1,138 +1,98 @@
-## Feel welcome to check out this [continuously maintained repository](https://github.com/The3DP/VerseData.github.io)
+# Bible App - Static Website
 
-## 👁️‍🗨️ Views since Aug 13, 2025 
-![Views](https://visitor-badge.laobi.icu/badge?page_id=your-github-username.The3DP&style=flat-square&color=FF00FF&labelColor=00FFFF&logo=eye)
+A simple, fast, and accessible Bible reading platform built with HTML, CSS, and JavaScript.
 
----
+## Features
 
-<details>
-<summary>📈 GitHub Activity & Stats</summary>
+- 📖 Bible verse search and display
+- 🔖 Favorite verses bookmarking
+- 🌙 Dark/Light theme support
+- 📱 Fully responsive design
+- ⚡ No backend required - runs entirely in the browser
+- 🔍 Fast search functionality
+- 💾 Local storage for saved data
 
-<br>
+## Getting Started
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=The3DP&theme=github-compact)
+### Prerequisites
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=The3DP&theme=dark)
+- A modern web browser
+- A text editor (VS Code, Sublime Text, etc.)
+- Git
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+,+I+am+The3DP;Aka+Bit77+🙂;+Welcome+to+My+Profile!;An+unofficial+programmer+who+loves+the+Word+of+God;Do+you+like+my+repositories?;Then+please+consider+giving+a+star;Thank+you+!;I+would+greatly+appreciate+it+!)](https://git.io/typing-svg)
+### Installation
 
-</details>
+1. Clone the repository:
+```bash
+git clone https://github.com/The3DP/Bible-App.git
+cd Bible-App
+```
 
----
+2. Open `index.html` in your browser or use a local server:
+```bash
+python -m http.server 8000
+# or
+python3 -m http.server 8000
+```
 
-<details open>
-<summary>📖 Bible Verse of the Day</summary>
+3. Visit `http://localhost:8000` in your browser
 
-[*Click here to see*](https://the3dp.github.io/VerseData.github.io/)
+## Project Structure
 
-</details>
+```
+Bible-App/
+├── index.html          # Main HTML file
+├── css/
+│   └── styles.css      # Styling
+├── js/
+│   ├── app.js          # Main application logic
+│   ├── bible-data.js   # Bible verses database
+│   └── utils.js        # Utility functions
+├── data/
+│   └── kjv.json        # Bible data (KJV)
+└── README.md           # This file
+```
 
----
+## Bible Data Sources
 
-<details open>
-<summary>⍞ Quote of the Day</summary>
+Currently using:
+- **King James Version (KJV)** - Public domain
 
-[*Click here to see*](https://the3dp.github.io/QuoteData.github.io/)
+Planning to add:
+- American Standard Version (ASV)
+- World English Bible (WEB)
 
-</details>
+## Usage
 
----
+1. **Search**: Type book name, chapter, or keywords in the search bar
+2. **Browse**: Navigate through books and chapters
+3. **Save**: Click the heart icon to save favorite verses
+4. **Theme**: Toggle between dark and light modes
 
-<details>
-<summary>Solar System Module</summary>
+## Contributing
 
-<br>
+Contributions are welcome! Please:
 
-![Demo](https://github.com/user-attachments/assets/11cc445d-353c-4e48-bd44-d611d929da22)
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
 
-</details>
+## Roadmap
 
----
+- [ ] Multiple Bible translations
+- [ ] Verse of the day widget
+- [ ] Reading plans
+- [ ] Note-taking feature
+- [ ] Social sharing
+- [ ] Offline mode with service workers
+- [ ] User accounts and sync (future)
 
-<details>
-<summary> My Largest Projects
-</summary>
+## License
 
-  | Project |
-|-----------|
-| [**Pylight**](https://github.com/The3DP/PyLight) |
-| [**AllPi**](https://github.com/The3DP/AllPi/tree/main) |
-| [**Galatic**](https://github.com/The3DP/Galatic.github.io) |
-| [**AnimOne**](https://github.com/The3DP/AnimOne) |
-| [**AnimDuo**](https://github.com/The3DP/AnimDuo.github.io) |
-| [**AnimTrice**](https://github.com/The3DP/AnimTrice.github.io) |
-| [**Panim**](https://github.com/The3DP/Panim/tree/main) |
-| [**joke-generator**](https://github.com/The3DP/Code-Samples/tree/main/joke-generator) |
+MIT License - see LICENSE file for details
 
-</details>
+## Contact
 
----
-
-<details>
-<summary>🤝 Connect & Follow</summary>
-
-⭐ If you star my repos, then I’ll star yours back!  
-
-My three most active repos are:
-
-- [**VerseData**](https://github.com/The3DP/VerseData.github.io)
-- [**QuoteData**](https://github.com/The3DP/QuoteData.github.io)
-- [**Code-Samples**](https://github.com/The3DP/Code-Samples)
-
-</details>
-
----
-
-<details>
-<summary>🍓 Raspberry Pi Showcase</summary>
-
-**My Raspberry Pi 4B + ICE Fan setup:**
-
-![IMG_1059](https://github.com/user-attachments/assets/211e53df-9748-4b27-96b2-738abd604854)
-
-- 🔌 *Idle Power Draw*: **2–3 watts**
-
-![IMG_1060](https://github.com/user-attachments/assets/0b09b025-08a3-43f5-b774-dd4f59d58e07)
-![IMG_1061](https://github.com/user-attachments/assets/79410976-e8d5-4835-8f57-875ec61b2351)
-
-💡 *I keep the lights on high — they reflect colorful beams on the wall.*
-
-🛒 [**Buy the ICE Fan on Amazon**](https://www.amazon.com/dp/B07V35SXMC)
-
-</details>
-
----
-
-<details>
-<summary>🌐 Extra Pages</summary>
-
-- [🔬 **About RTS**](https://The3DP.github.io/about-RTS/)  
-- [🧠 **About Mation**](https://The3DP.github.io/Mation.github.io/)  
-- [🌌 **Neon Solar System Module**](https://The3DP.github.io/Orbit/)
-
-</details>
-
----
-
-## 🛠️ Tools I Use
-
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" />
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" />
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" width="50" />
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="50" />
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino" width="50" />
-</p>
-
----
-
-## 🤖 AI Tools I Use
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="60" />
-  &nbsp;&nbsp;&nbsp;
-</p>
+Questions or suggestions? Open an issue or reach out!
