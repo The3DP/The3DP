@@ -58,10 +58,6 @@ Bible-App/
 Currently using:
 - **King James Version (KJV)** - Public domain
 
-Planning to add:
-- American Standard Version (ASV)
-- World English Bible (WEB)
-
 ## Usage
 
 1. **Search**: Type book name, chapter, or keywords in the search bar
