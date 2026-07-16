@@ -2,6 +2,7 @@
 
 // Initialize app on page load
 document.addEventListener('DOMContentLoaded', function() {
+    loadSavedVersion();
     loadTheme();
     initializeUI();
     setupEventListeners();
@@ -12,9 +13,13 @@ document.addEventListener('DOMContentLoaded', function() {
  * Initialize UI elements
  */
 function initializeUI() {
+    // Set version selector
+    const versionSelect = document.getElementById('version-select');
+    versionSelect.value = getVersion();
+    
     // Populate book select dropdown
     const bookSelect = document.getElementById('book-select');
-    BIBLE_DATA.books.forEach(book => {
+    BIBLE_BOOKS.forEach(book => {
         const option = document.createElement('option');
         option.value = book.name;
         option.textContent = book.name;
@@ -29,6 +34,12 @@ function initializeUI() {
  * Setup event listeners
  */
 function setupEventListeners() {
+    // Version selector
+    document.getElementById('version-select').addEventListener('change', (e) => {
+        setVersion(e.target.value);
+        performSearch(); // Refresh display with new version
+    });
+    
     // Search button
     document.getElementById('search-btn').addEventListener('click', performSearch);
     document.getElementById('search-input').addEventListener('keypress', (e) => {
@@ -40,7 +51,7 @@ function setupEventListeners() {
     
     // Book select change
     document.getElementById('book-select').addEventListener('change', (e) => {
-        const bookIndex = BIBLE_DATA.books.findIndex(b => b.name === e.target.value);
+        const bookIndex = BIBLE_BOOKS.findIndex(b => b.name === e.target.value);
         updateChapterSelect(bookIndex);
     });
     
@@ -55,7 +66,7 @@ function setupEventListeners() {
  * Update chapter select dropdown based on selected book
  */
 function updateChapterSelect(bookIndex) {
-    const book = BIBLE_DATA.books[bookIndex];
+    const book = BIBLE_BOOKS[bookIndex];
     const chapterSelect = document.getElementById('chapter-select');
     chapterSelect.innerHTML = '';
     
@@ -100,18 +111,18 @@ function performSearch() {
  * Search by book/chapter/verse reference
  */
 function searchByReference(book, chapter, verse, container) {
-    // Convert book name to key format for verse lookup
+    const version = getVersion();
     const key = book.name.replace(/\s+/g, '_') + '_' + (chapter || 1);
     
-    if (BIBLE_DATA.verses[key]) {
-        if (verse && BIBLE_DATA.verses[key][verse]) {
+    if (BIBLE_VERSES[version] && BIBLE_VERSES[version][key]) {
+        if (verse && BIBLE_VERSES[version][key][verse]) {
             // Specific verse
-            const text = BIBLE_DATA.verses[key][verse];
+            const text = BIBLE_VERSES[version][key][verse];
             const ref = formatVerseReference(book.name, chapter, verse);
             container.appendChild(createVerseElement(ref, text));
         } else if (!verse) {
             // All verses in chapter
-            Object.entries(BIBLE_DATA.verses[key]).forEach(([v, text]) => {
+            Object.entries(BIBLE_VERSES[version][key]).forEach(([v, text]) => {
                 const ref = formatVerseReference(book.name, chapter, v);
                 container.appendChild(createVerseElement(ref, text));
             });
@@ -127,19 +138,22 @@ function searchByReference(book, chapter, verse, container) {
  * Search by keyword
  */
 function searchByKeyword(keyword, container) {
+    const version = getVersion();
     const results = [];
     
-    // Search through all verses
-    Object.entries(BIBLE_DATA.verses).forEach(([key, chapters]) => {
-        Object.entries(chapters).forEach(([verse, text]) => {
-            if (text.toLowerCase().includes(keyword)) {
-                const [book, chapter] = key.split('_');
-                const bookName = BIBLE_DATA.books.find(b => b.name.replace(/\s+/g, '_') === book)?.name;
-                const ref = formatVerseReference(bookName, chapter, verse);
-                results.push({ ref, text });
-            }
+    // Search through all verses in current version
+    if (BIBLE_VERSES[version]) {
+        Object.entries(BIBLE_VERSES[version]).forEach(([key, chapters]) => {
+            Object.entries(chapters).forEach(([verse, text]) => {
+                if (text.toLowerCase().includes(keyword)) {
+                    const [book, chapter] = key.split('_');
+                    const bookName = BIBLE_BOOKS.find(b => b.name.replace(/\s+/g, '_') === book)?.name;
+                    const ref = formatVerseReference(bookName, chapter, verse);
+                    results.push({ ref, text });
+                }
+            });
         });
-    });
+    }
     
     if (results.length > 0) {
         results.forEach(result => {
@@ -201,7 +215,6 @@ function updateFavoritesList() {
  */
 function clearAllFavorites() {
     if (confirm('Are you sure you want to clear all favorites?')) {
-        localStorage.setItem('favorites', JSON.stringify([]));
-        updateFavoritesList();
+        localStorage.setItem('favorites', JSON.stringify([]));     updateFavoritesList();
     }
 }

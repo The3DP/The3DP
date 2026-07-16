@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="A simple Bible reading app - search, read, and save your favorite verses.">
+    <meta name="description" content="A simple Bible reading app - search, read, and save your favorite verses. KJV and NKJV versions.">
     <title>Bible App - Read God's Word</title>
     <link rel="stylesheet" href="css/styles.css">
 </head>
@@ -13,7 +13,16 @@
         <header class="header">
             <div class="header-content">
                 <h1>📖 Bible App</h1>
-                <button id="theme-toggle" class="theme-toggle" aria-label="Toggle dark mode">🌙</button>
+                <div class="header-controls">
+                    <div class="version-selector">
+                        <label for="version-select">Version:</label>
+                        <select id="version-select" class="version-select" aria-label="Select Bible version">
+                            <option value="kjv">KJV - King James Version</option>
+                            <option value="nkjv">NKJV - New King James Version</option>
+                        </select>
+                    </div>
+                    <button id="theme-toggle" class="theme-toggle" aria-label="Toggle dark mode">🌙</button>
+                </div>
             </div>
         </header>
 
