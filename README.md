@@ -21,7 +21,7 @@
 ---
 
 <details open>
-<summary>📖 Bible Verse of the Day --- NKJV</summary>
+<summary>📖 Bible Verse of the Day - NKJV</summary>
 
 [*Click here to see*](https://the3dp.github.io/VerseData-NKJV/)
 
@@ -30,7 +30,7 @@
 ---
 
 <details open>
-<summary>📖 Bible Verse of the Day --- KJV</summary>
+<summary>📖 Bible Verse of the Day - KJV</summary>
 
 [*Click here to see*](https://the3dp.github.io/VerseData-KJV/)
 
