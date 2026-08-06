@@ -23,7 +23,7 @@
 <details open>
 <summary>📖 Bible Verse of the Day - NKJV</summary>
 
-[*Click here to see*](https://the3dp.github.io/VerseData-NKJV/)
+[*Click here to see*](https://the3dp.github.io/VerseData-NKJV.github.io/)
 
 </details>
 
@@ -32,7 +32,7 @@
 <details open>
 <summary>📖 Bible Verse of the Day - KJV</summary>
 
-[*Click here to see*](https://the3dp.github.io/VerseData-KJV/)
+[*Click here to see*](https://the3dp.github.io/VerseData-KJV.github.io/)
 
 </details>
 
